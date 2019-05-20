@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1">
+	<test name="Test1" parallel="false">
+
+		<listeners>
+			<listener class-name="com.test.common.utils.CustomListner" />
+		</listeners>
+		<classes>
+
+			<class name="page.steps.HomePageSteps" />
+
+		</classes>
+	</test>
+	<test name="Test2" parallel="false">
+		<classes>
+
+
+			<class name="page.steps.DashBoardPageSteps" />
+		</classes>
+	</test>
+
+</suite>

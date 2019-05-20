@@ -1,0 +1,37 @@
+2019-04-28 13:16:43,974  INFO [main] CommonActions:59 - launching chrome driver
+2019-04-28 13:16:46,487  INFO [main] CommonActions:76 - maximising the browser
+2019-04-28 13:16:46,722  INFO [main] CommonActions:78 - waiting for the browser to load through implicit wait
+2019-04-28 13:17:00,141  INFO [main] CommonActions:87 - closing the browser
+2019-04-28 13:17:00,817  INFO [main] CommonActions:59 - launching chrome driver
+2019-04-28 13:17:02,984  INFO [main] CommonActions:76 - maximising the browser
+2019-04-28 13:17:03,170  INFO [main] CommonActions:78 - waiting for the browser to load through implicit wait
+2019-04-28 13:17:19,338  INFO [main] CommonActions:87 - closing the browser
+2019-04-28 13:22:14,547  INFO [main] CommonActions:59 - launching chrome driver
+2019-04-28 13:22:16,943  INFO [main] CommonActions:76 - maximising the browser
+2019-04-28 13:22:17,151  INFO [main] CommonActions:78 - waiting for the browser to load through implicit wait
+2019-04-28 13:22:27,299  INFO [main] CommonActions:87 - closing the browser
+2019-04-28 13:22:28,019  INFO [main] CommonActions:59 - launching chrome driver
+2019-04-28 13:22:29,408  INFO [main] CommonActions:76 - maximising the browser
+2019-04-28 13:22:29,596  INFO [main] CommonActions:78 - waiting for the browser to load through implicit wait
+2019-04-28 13:22:45,952  INFO [main] CommonActions:87 - closing the browser
+2019-05-02 01:15:11,015  INFO [main] CommonActions:75 - launching chrome driver
+2019-05-02 01:16:44,096  INFO [main] CommonActions:75 - launching chrome driver
+2019-05-02 01:16:47,838  INFO [main] CommonActions:96 - maximising the browser
+2019-05-02 01:16:48,025  INFO [main] CommonActions:98 - waiting for the browser to load through implicit wait
+2019-05-02 01:17:24,569  INFO [main] CommonActions:107 - closing the browser
+2019-05-02 01:22:03,029  INFO [main] CommonActions:77 - launching chrome driver
+2019-05-02 01:22:05,944  INFO [main] CommonActions:98 - maximising the browser
+2019-05-02 01:22:06,158  INFO [main] CommonActions:100 - waiting for the browser to load through implicit wait
+2019-05-02 01:22:38,689  INFO [main] CommonActions:109 - closing the browser
+2019-05-02 01:22:39,401  INFO [main] CommonActions:77 - launching chrome driver
+2019-05-02 01:22:40,918  INFO [main] CommonActions:98 - maximising the browser
+2019-05-02 01:22:41,090  INFO [main] CommonActions:100 - waiting for the browser to load through implicit wait
+2019-05-02 01:23:14,390  INFO [main] CommonActions:109 - closing the browser
+2019-05-02 01:26:17,454  INFO [main] CommonActions:77 - launching chrome driver
+2019-05-02 01:26:20,147  INFO [main] CommonActions:98 - maximising the browser
+2019-05-02 01:26:20,315  INFO [main] CommonActions:100 - waiting for the browser to load through implicit wait
+2019-05-02 01:26:33,580  INFO [main] CommonActions:109 - closing the browser
+2019-05-02 01:26:34,257  INFO [main] CommonActions:77 - launching chrome driver
+2019-05-02 01:26:35,555  INFO [main] CommonActions:98 - maximising the browser
+2019-05-02 01:26:35,774  INFO [main] CommonActions:100 - waiting for the browser to load through implicit wait
+2019-05-02 01:26:46,908  INFO [main] CommonActions:109 - closing the browser
